@@ -20,7 +20,7 @@ lerna-debug.log*
 /.nyc_output
 
 # postgres
-.data
+/.data
 
 # IDEs and editors
 /.idea
